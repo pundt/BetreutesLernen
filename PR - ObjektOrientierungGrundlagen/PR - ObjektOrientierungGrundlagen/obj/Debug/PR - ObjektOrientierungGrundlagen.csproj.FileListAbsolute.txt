@@ -1,0 +1,6 @@
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\bin\Debug\PR - ObjektOrientierungGrundlagen.exe.config
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\bin\Debug\PR - ObjektOrientierungGrundlagen.exe
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\bin\Debug\PR - ObjektOrientierungGrundlagen.pdb
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\obj\Debug\PR - ObjektOrientierungGrundlagen.csprojResolveAssemblyReference.cache
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\obj\Debug\PR - ObjektOrientierungGrundlagen.exe
+e:\temp\PR - ObjektOrientierungGrundlagen\PR - ObjektOrientierungGrundlagen\obj\Debug\PR - ObjektOrientierungGrundlagen.pdb

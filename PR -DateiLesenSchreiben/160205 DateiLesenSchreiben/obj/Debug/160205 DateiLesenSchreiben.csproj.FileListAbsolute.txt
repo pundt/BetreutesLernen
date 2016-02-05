@@ -1,0 +1,6 @@
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\bin\Debug\160205 DateiLesenSchreiben.exe.config
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\bin\Debug\160205 DateiLesenSchreiben.exe
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\bin\Debug\160205 DateiLesenSchreiben.pdb
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\obj\Debug\160205 DateiLesenSchreiben.csprojResolveAssemblyReference.cache
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\obj\Debug\160205 DateiLesenSchreiben.exe
+e:\temp\160205 DateiLesenSchreiben\160205 DateiLesenSchreiben\obj\Debug\160205 DateiLesenSchreiben.pdb
