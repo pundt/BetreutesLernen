@@ -1,0 +1,9 @@
+alle 		away		application		anwendungs
+prüfer		pizza		presentation		präsentation
+saufen		salami		session			sitzung
+tequila		throw		transport		transport
+nach 		not		network			netzwerk
+der  		do		data-link		vermittlungs
+prüfung		please		physical		physikalisch
+
+
