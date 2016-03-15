@@ -1,0 +1,27 @@
+Bei allen Beispielen sind die Felder, Eigenschaften und der Konstruktor zu erstellen.
+
+Beispiel 1)
+Erstellen Sie eine Klasse Obst mit folgenden Feldern
+	int anzahlVitamine
+	string bezeichnung
+	bool gesund
+
+Beispiel 2)
+Flasche
+	int milliLiter
+	double	radius, höhe
+
+
+Beispiel 3)
+Stift
+	string farbe
+	int länge
+
+Beispiel 4)
+Tisch
+	string markenName
+	bool istDesignertisch
+	double höhe, länge, breite
+
+
+
